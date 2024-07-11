@@ -1,0 +1,15 @@
+{
+    "name": "thierdevs/designpattern-mi",
+    "autoload": {
+        "psr-4": {
+            "Builder\\": "src/builder/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thierno Diedhiou",
+            "email": "thiernodiedhiou54@gmail.com"
+        }
+    ],
+    "require": {}
+}
